@@ -1,0 +1,49 @@
+Resultat de la commande git status :
+
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+          resultats_test.txt
+
+	  nothing added to commit but untracked files present (use "git add" to track)
+
+
+Historique des commit :
+
+commit bfcdb1c9aebb4904c4048551d29541115fe7420a (HEAD -> test)
+Author: Alice Paget <alicepaget.25@gmail.com>
+Date:   Thu Jan 7 16:54:56 2021 +0100
+
+    Ajout nom prenom dans fiche 3
+
+    commit a5f6ddd5e586ebbaea1af470e3a9434158668b4d
+    Author: Alice Paget <alicepaget.25@gmail.com>
+    Date:   Thu Jan 7 16:52:57 2021 +0100
+
+        Creation fiche 2
+
+	commit 6295ae4988017008a8ef57018dde0685181143c6 (master)
+	Author: Alice Paget <alicepaget.25@gmail.com>
+	Date:   Thu Jan 7 16:44:21 2021 +0100
+
+	    Fiche01 complété
+
+	    commit 32665a43e5a7eae468a18f51ad8f4df640ada5b3 (origin/master, origin/HEAD)
+	    Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+	    Date:   Thu Jan 7 14:52:19 2021 +0100
+
+	        Ajout des infos sur push
+
+		commit 3e83647b316220d13dd995eadf6b92595e00e81e
+		Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+		Date:   Thu Jan 7 14:40:38 2021 +0100
+
+		    Ajout du cours linux
+
+		    commit 290cbdc59b2f4d1fee46059648bba677665a8ab8
+		    Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+		    Date:   Thu Jan 7 14:08:21 2021 +0100
+
+                       creation des fichiers
+
+
